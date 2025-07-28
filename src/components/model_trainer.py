@@ -1,0 +1,1 @@
+# in this file we create a function to train the model 

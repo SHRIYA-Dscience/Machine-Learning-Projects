@@ -1,0 +1,1 @@
+# in this file we create afunction for load and read the data 
